@@ -1,0 +1,3 @@
+Xephyr :1 -title "L:D_N:application_ID:xephyr" -ac -br -screen 768x1024+0+0 -cc 4 -reset -terminate &
+
+the above work on kindle 
